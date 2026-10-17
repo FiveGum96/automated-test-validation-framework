@@ -1,4 +1,5 @@
 # Automated Test Validation Framework
+[![Python Tests](https://github.com/FiveGum96/automated-test-validation-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/FiveGum96/automated-test-validation-framework/actions/workflows/tests.yml)
 
 A Python-based framework for automated validation of simulated technical measurement data.
 
