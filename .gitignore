@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code local settings
+.vscode/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
